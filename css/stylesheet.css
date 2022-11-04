@@ -1,0 +1,144 @@
+* {
+  font-family: "Roboto Condensed", sans-serif;
+  margin: 0;
+}
+body {
+  text-align: center;
+}
+
+h1 {
+  width: 36%;
+  margin: 0 auto 0 auto;
+}
+p {
+  width: 16%;
+  margin: 0 auto 0 auto;
+}
+.span {
+  text-decoration: wavy underline rgb(109, 238, 127);
+}
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+}
+.top-container {
+  background-color: #ffbe69;
+  padding-top: 100px;
+}
+
+.heading {
+  font-size: 4em;
+  font-family: "Sacramento", cursive;
+}
+.pro {
+  font-size: 2em;
+
+  font-family: "Source Sans Pro", sans-serif;
+}
+span {
+  font-family: "Source Sans Pro", sans-serif;
+}
+.code-img {
+  border-radius: 100%;
+}
+
+.skill-row {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0 60px;
+}
+.random-1 {
+  width: 50%;
+  padding-top: 90px;
+  padding-left: 20px;
+  text-align: left;
+}
+.h3 {
+  font-size: 2.5em;
+
+  color: #66bfbf;
+}
+.footer-h3 {
+  color: #247a7a;
+  font-size: 1.4em;
+}
+.p1 {
+  width: 80%;
+  justify-content: left;
+  margin-left: 0;
+  font-size: 1.2em;
+  color: #40514e;
+}
+
+.robo-img {
+  background-color: rgb(252, 226, 93);
+  border-radius: 50%;
+  margin-top: 20px;
+  padding: 30px;
+}
+.intro {
+  width: 100%;
+
+  font-size: 1.2em;
+}
+h2 {
+  font-size: 2.5em;
+  color: #66bfbf;
+}
+hr {
+  border: dotted #b3bfbf 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.contact-message {
+  width: 40%;
+  margin: 50px auto;
+  font-weight: bolder;
+  font-size: 22px;
+}
+.contact-me {
+  margin-bottom: 70px;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: "Montserrat", sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.bottom-container {
+  background-color: #ffbe69;
+  padding: 50px 0;
+}
+.other-contacts {
+  width: 20%;
+  margin: auto;
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 30px;
+}
+.common {
+  text-decoration: none;
+  color: #11999e;
+  font-weight: bolder;
+  font-size: 1.2em;
+}
+.copyright {
+  width: auto;
+  font-weight: bold;
+}
